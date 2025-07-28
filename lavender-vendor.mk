@@ -1162,6 +1162,7 @@ PRODUCT_PACKAGES += \
     libvideoutils \
     libvidhance \
     libvidhance_gyro \
+    libspatialaudio \
     com.qualcomm.qti.dpm.api@1.0_vendor \
     com.qualcomm.qti.imscmservice@1.0 \
     com.qualcomm.qti.imscmservice@2.0 \
